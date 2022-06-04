@@ -2,6 +2,7 @@
 ## 1. top
 #### 리눅스 시스템의 운용상황을 실시간으로 전반적인 상황을 모니터링하거나 프로세스 관리를 할 수 있는 유틸리티
 ### 1) 세부 정보 필드별 항목
+![image](https://user-images.githubusercontent.com/97177686/172020504-d790a13d-5d37-415b-af5c-b6b15824a7ac.png)
 #####  PID USER  PR  NI  VIRT  RES  SHR S %CPU %MEM  TIME+  COMMAND
 ######  PID : 프로세스 ID (PID)
 ######  USER : 프로세스를 실행시킨 사용자 ID
@@ -42,6 +43,8 @@
 
 ## 2. ps
 #### 현재 실행중인 프로세스를 보여주는 리눅스 명령어
+![image](https://user-images.githubusercontent.com/97177686/172020555-11b454ef-3b31-4524-b968-86585fc27e9d.png)
+
 |옵션|설명|
 |:------:|:-----|
 |-r | 현재 실행중인 프로세서를 보여줌|
